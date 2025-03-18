@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jyotsna 101 on Hi, I&#39;m Jyotsna</title>
+    <link>http://localhost:1313/series/jyotsna-101/</link>
+    <description>Recent content in Jyotsna 101 on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/jyotsna-101/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning using C&#43;&#43;</title>
+      <link>http://localhost:1313/posts/2023/08/machine-learning-using-c-/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/machine-learning-using-c-/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unleashing the Power of Deep Learning - Natural Language Processing in Finance</title>
+      <link>http://localhost:1313/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In recent years, the intersection of deep learning and natural language processing (NLP) has revolutionized various industries, including finance. By leveraging the capabilities of deep learning models, financial institutions can extract valuable insights from vast amounts of unstructured textual data. This article explores the application of deep learning in NLP for finance, highlighting its potential to enhance decision-making processes, sentiment analysis, and automated financial reporting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/amLfrL8LGls&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/0*r2YdDKBT1P1ZP1Wm&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-deep-learning&#34;&gt;Understanding Deep Learning&lt;/h2&gt;&#xA;&lt;p&gt;Deep learning is a subset of machine learning that focuses on training artificial neural networks with multiple layers to learn hierarchical representations of data. These neural networks are capable of automatically learning and extracting complex patterns from raw data, making them well-suited for processing and understanding textual information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mojo 🔥 : Know Everything About the New Programming Language</title>
+      <link>http://localhost:1313/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/0*KRblIuaNEJ_OVil8&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the ever-evolving world of programming languages, a new contender has emerged, poised to revolutionize the way developers build software. Mojo Lang, a powerful and versatile programming language, has gained significant attention and popularity among programmers worldwide. In this article, we will delve into the features, strengths, and potential applications of Mojo Lang, providing an in-depth understanding of its capabilities and why it has captured the imagination of the programming community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Segment Anything Model — SAM: A Game-Changer in Image Segmentation</title>
+      <link>http://localhost:1313/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*uVmHdCWdgwolXHy27B-uUA.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cupboard Segmented using Segment Anything Model by MetaAI — &lt;a href=&#34;https://segment-anything.com/demo&#34;&gt;https://segment-anything.com/demo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In recent years, the field of computer vision has witnessed remarkable advancements, thanks to the emergence of foundation models and their ability to generalize across various tasks. The SegmentAnythingModel (SAM) is a groundbreaking vision foundational model that has garnered significant attention in the computer vision community. Trained on an extensive dataset, SAM exhibits an unprecedented capability to segment objects in images and videos. In this blog post, we will explore the potential of SAM across different real-world applications, discuss its benefits, highlight its limitations, and explore future development prospects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,24 +1,25 @@
-baseURL = "https://example.com"
-title   = "Hello Friend NG"
-languageCode = "en-us"
-theme = "hello-friend-ng"
+baseURL        = "https://example.com"
+title          = "Hi, I'm Jyotsna"
+languageCode   = "en-us"
+theme          = "hello-friend-ng"
 
 PygmentsCodeFences = true
-PygmentsStyle = "monokai"
+PygmentsStyle      = "monokai"
 
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
+# Directory structure
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
 
+# Build configuration
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
 canonifyURLs = true
 
+# Enable and disable certain features
 enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
@@ -28,240 +29,143 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+# Pagination settings
 [pagination]
   disableAliases = false
-  pagerSize = 20
-  path = 'page'
+  pagerSize      = 20
+  path           = "page"
 
+# Services
 [services]
   [services.rss]
       # Maximum number of items in the RSS feed.
       limit = 42
-      
-#   [services.disqus]
-#     shortname = 'your-disqus-shortname'
-#   [services.googleAnalytics]
-#     ID = 'G-MEASUREMENT_ID'
 
+  # Uncomment and configure these services as needed:
+  # [services.disqus]
+  # shortname = "your-disqus-shortname"
+  # [services.googleAnalytics]
+  # ID = "G-MEASUREMENT_ID"
+
+# Permalinks structure
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
+# Blackfriday Markdown settings
 [blackfriday]
   hrefTargetBlank = true
 
+# Taxonomies
 [taxonomies]
   tag      = "tags"
   category = "categories"
   series   = "series"
 
+# Date formatting options
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  # Metadata mostly used in document's head
-  # 
+  # Metadata used in the document's head
   description = "Nice theme for homepages and blogs"
-  keywords = ""
-  images = [""]
+  keywords    = ""
+  images      = [""]
 
-  # Home subtitle of the index page.
-  #
-  homeSubtitle = "Hello Friend NG"
+  # Home subtitle of the index page
+  homeSubtitle = "Scaling solutions to handle complex ideas, with a strong brew to keep up!"
 
-  # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+  # Enable theme toggle for dark/light mode
+  enableThemeToggle = true
 
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  #
-  # gitUrl = ""
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  #
-  disableReadOtherPosts = false
-
-  # Enable theme toggle
-  # 
-  # This options enables the theme toggle for the theme. 
-  # Per default, this option is off. 
-  # The theme is respecting the prefers-color-scheme of the operating system. 
-  # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
-
-  # Sharing buttons
-  #
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
+  # Sharing buttons configuration
   enableSharingButtons = true
 
   # Global language menu
-  #
-  # Enables the global language menu.
-  #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  #
+  # Custom CSS and JS integration
   customCSS = []
   customJS  = []
 
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  #
-  justifyContent = false  # Set "text-align: justify" to .post-content.
+  # Toggle SCSS rebuild (requires extended version of Hugo)
+  justifyContent = false
 
-  # Integrate Plausible.io
-  # plausibleDataDomain = 'test.com'
+  # Enable Plausible.io integration
+  # plausibleDataDomain = 'yourdomain.com'
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
-  [params.author]
-    name = "Jane Doe"
-
-  # Custom footer 
-  # If you want, you can easily override the default footer with your own content. 
-  #
+  # Footer configuration
   [params.footer]
-    trademark = 2023
-    rss = true
-    copyright = true
-    author = true
-
-    topText = []
-    bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    topText = [
+      "Made with &#10084; by <a href=\"https://github.com/jyotsnad246\">Jyotsna</a>"
     ]
+    trademark = 2025
+    rss = false
+    copyright = false
+    author = false
 
-  # Colors for favicons
-  #
+  # Favicon colors
   [params.favicon.color]
-    mask = "#1b1c1d"
+    mask          = "#1b1c1d"
     msapplication = "#1b1c1d"
-    theme = "#1b1c1d"
+    theme         = "#1b1c1d"
 
+  # Logo configuration
   [params.logo]
     logoMark     = ">"
     logoText     = "$ cd /home/"
     logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
+    # Uncomment below to adjust cursor behavior in the logo.
     # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
     # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
-    # Append the current url pathname to logoText 
     # logoCursorPathname = true
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
-  # Addon: Startpage portrait 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  # Uncomment this if you want a portrait on your start page
-  #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  # Portrait configuration (Uncomment and set the correct path to your image)
+  [params.portrait]
+  path     = "/images/jyotsnadp.jpg"   # Corrected path relative to static folder
+  alt      = "Portrait of Jyotsna"    # Descriptive alt text
+  maxWidth = "350px"                  # Adjusted max width for better display
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
-  # Addon: Commento
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
+  # Commento integration (Uncomment to enable)
   # [params.commento]
-  #   url = ""
+  # url = "your-commento-instance-url"
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
-  # Addon: Utteranc.es
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  # Utteranc.es is a lightweight comments widget built on GitHub issues.
-  # See https://utteranc.es/ for documentation
-  # Uncomment this to enable Utteranc.es.
-  #
+  # Utteranc.es integration (Uncomment to enable)
   # [params.utterances]
-  #   Your GitHub repository
-  #
-  #   repository = ""
-  #
-  #   label used for GitHub issues
-  #
-  #   label      = ""
-  # 
-  #   Blog Post <-> Issue mapping. This parameter is optional. Possible values are:
-  #      - pathname
-  #      - url
-  #      - title
-  #      - og:title
-  #      - issue number
-  #      - specific term
-  #
-  #   issueTerm  = ""
-  #
-  #   Theme used: possible values are:
-  #      - github-light
-  #      - github-dark
-  #      - preferred-color-scheme
-  #      - github-dark-orange
-  #      - icy-dark
-  #      - dark-blue
-  #      - photon-dark
-  #      - boxy-light
-  #      - gruvbox-dark
-  #
-  #   theme      = ""
-  # 
+  # repository = "your-github-repository"
+  # label      = "comments"
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
-  # Addon: Social icons
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  #
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
+  # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:emailofjyotsna@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/jyotsnad246"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/jyotsna246/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "medium"
+    url  = "https://medium.com/@jyotsnay24/"
 
-[languages]
-  [languages.en]
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.en.params]
-    subtitle  = "Hello Friend NG Theme"
-
-  [languages.fr]
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.fr.params]
-    subtitle  = "Hello Friend NG Theme"
-
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/jyotsnadoonga"
+  
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
+
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
+    identifier = "blog"
+    name       = "Blogs"
     url        = "posts/"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REST APIs on Hi, I&#39;m Jyotsna</title>
+    <link>http://localhost:1313/tags/rest-apis/</link>
+    <description>Recent content in REST APIs on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rest-apis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying REST APIs: A Comprehensive Guide to Representational State Transfer</title>
+      <link>http://localhost:1313/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*uVmHdCWdgwolXHy27B-uUA.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cupboard Segmented using Segment Anything Model by MetaAI — &lt;a href=&#34;https://segment-anything.com/demo&#34;&gt;https://segment-anything.com/demo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*5b9URi8HKSr9A9f-jvmxCQ.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the ever-evolving landscape of web development, Representational State Transfer (REST) has emerged as a powerful architectural style for designing networked applications. REST APIs (Application Programming Interfaces) play a crucial role in facilitating structured communication between different software systems. This article aims to demystify the world of REST APIs, exploring their key concepts, advantages, components, and best practices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-rest&#34;&gt;Understanding REST:&lt;/h2&gt;&#xA;&lt;p&gt;At its core, REST is an architectural style that relies on a stateless, client-server communication model. This means that each HTTP request from a client to a server contains all the information necessary to understand and fulfill that request, promoting independence and scalability. The article delves into the significance of statelessness, emphasizing how it enhances automation and error-free interactions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
