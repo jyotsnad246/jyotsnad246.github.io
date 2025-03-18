@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithm on Hi, I&#39;m Jyotsna</title>
-    <link>http://localhost:1313/tags/algorithm/</link>
+    <link>http://localhost:1313/jyotsnad246.github.io/tags/algorithm/</link>
     <description>Recent content in Algorithm on Hi, I&#39;m Jyotsna</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jyotsnad246.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Dutch National Flag Algorithm: Efficient Sorting in Three Categories</title>
-      <link>http://localhost:1313/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*ZzXl4hi33T6jDpngN1OqBA.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Dutch National Flag algorithm is a popular and efficient sorting technique for problems where elements can be divided into three distinct categories. Named after the Dutch national flag, where there are three horizontal stripes of different colors, this algorithm elegantly sorts an array of items into three groups with minimal swaps and comparisons.&lt;/p&gt;&#xA;&lt;p&gt;In this blog post, we will explore the Dutch National Flag algorithm in detail, including how it works, its applications, and its benefits.&lt;/p&gt;</description>
     </item>
   </channel>

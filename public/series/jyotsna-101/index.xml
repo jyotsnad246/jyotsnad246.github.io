@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jyotsna 101 on Hi, I&#39;m Jyotsna</title>
-    <link>http://localhost:1313/series/jyotsna-101/</link>
+    <link>http://localhost:1313/jyotsnad246.github.io/series/jyotsna-101/</link>
     <description>Recent content in Jyotsna 101 on Hi, I&#39;m Jyotsna</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/jyotsna-101/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jyotsnad246.github.io/series/jyotsna-101/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Machine Learning using C&#43;&#43;</title>
-      <link>http://localhost:1313/posts/2023/08/exploring-machine-learning-using-c-/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2023/08/exploring-machine-learning-using-c-/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/08/exploring-machine-learning-using-c-/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2023/08/exploring-machine-learning-using-c-/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Exploring C++ Libraries for Machine Learning: An overview of popular C++ libraries for machine learning, such as TensorFlow, Caffe, or MXNet, highlighting their features and use cases.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*C9DiGk1kRDJMr1UlfUXBMg.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Machine learning has revolutionized the way we solve complex problems, and C++ has long been a reliable language for building robust and efficient applications. In this blog post, we will embark on an exciting journey to explore three popular C++ libraries for machine learning: TensorFlow, Caffe, and MXNet. We’ll dive into their unique features, use cases, and provide code snippets to illustrate their power. So, fasten your seatbelts and get ready to unleash the full potential of these libraries!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unleashing the Power of Deep Learning - Natural Language Processing in Finance</title>
-      <link>http://localhost:1313/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In recent years, the intersection of deep learning and natural language processing (NLP) has revolutionized various industries, including finance. By leveraging the capabilities of deep learning models, financial institutions can extract valuable insights from vast amounts of unstructured textual data. This article explores the application of deep learning in NLP for finance, highlighting its potential to enhance decision-making processes, sentiment analysis, and automated financial reporting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/amLfrL8LGls&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/0*r2YdDKBT1P1ZP1Wm&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-deep-learning&#34;&gt;Understanding Deep Learning&lt;/h2&gt;&#xA;&lt;p&gt;Deep learning is a subset of machine learning that focuses on training artificial neural networks with multiple layers to learn hierarchical representations of data. These neural networks are capable of automatically learning and extracting complex patterns from raw data, making them well-suited for processing and understanding textual information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Dutch National Flag Algorithm: Efficient Sorting in Three Categories</title>
-      <link>http://localhost:1313/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*ZzXl4hi33T6jDpngN1OqBA.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Dutch National Flag algorithm is a popular and efficient sorting technique for problems where elements can be divided into three distinct categories. Named after the Dutch national flag, where there are three horizontal stripes of different colors, this algorithm elegantly sorts an array of items into three groups with minimal swaps and comparisons.&lt;/p&gt;&#xA;&lt;p&gt;In this blog post, we will explore the Dutch National Flag algorithm in detail, including how it works, its applications, and its benefits.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hypothesis Testing: Formulas and Widely Used Tests</title>
-      <link>http://localhost:1313/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:562/1*XizeX86IAm4mIxieipZ06w.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Hypothesis testing is a fundamental statistical technique used to make informed decisions and draw conclusions about populations based on sample data. It allows researchers to assess whether an observed effect is statistically significant or due to chance. In this article, we will explore the key concepts of hypothesis testing, delve into the formulas involved, and examine some commonly used tests.&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-hypothesis-testing&#34;&gt;Understanding Hypothesis Testing&lt;/h2&gt;&#xA;&lt;p&gt;Hypothesis testing involves two competing hypotheses: the null hypothesis (H0) and the alternative hypothesis (Ha). The null hypothesis represents the status quo or the absence of an effect, while the alternative hypothesis proposes a specific claim or research hypothesis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mastering Model Evaluation: A Comprehensive Guide to Choosing and Interpreting Evaluation Metrics in Machine Learning</title>
-      <link>http://localhost:1313/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/0*SJGvtEsalkRr1J6Q&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In the field of machine learning, evaluating the performance of models is essential for understanding their efficacy and making informed decisions. Evaluation metrics provide quantitative measures to assess how well a machine learning model performs on specific tasks such as classification, regression, or clustering. In this article, we will explore the significance of evaluation metrics and discuss different types commonly used in machine learning tasks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;classification-evaluation-metrics&#34;&gt;Classification Evaluation Metrics&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:498/1*J-UI3Un1dy-bzFMolyt-6g.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Demystifying REST APIs: A Comprehensive Guide to Representational State Transfer</title>
-      <link>http://localhost:1313/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*5b9URi8HKSr9A9f-jvmxCQ.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the ever-evolving landscape of web development, Representational State Transfer (REST) has emerged as a powerful architectural style for designing networked applications. REST APIs (Application Programming Interfaces) play a crucial role in facilitating structured communication between different software systems. This article aims to demystify the world of REST APIs, exploring their key concepts, advantages, components, and best practices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-rest&#34;&gt;Understanding REST:&lt;/h2&gt;&#xA;&lt;p&gt;At its core, REST is an architectural style that relies on a stateless, client-server communication model. This means that each HTTP request from a client to a server contains all the information necessary to understand and fulfill that request, promoting independence and scalability. The article delves into the significance of statelessness, emphasizing how it enhances automation and error-free interactions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mojo 🔥 : Know Everything About the New Programming Language</title>
-      <link>http://localhost:1313/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/0*KRblIuaNEJ_OVil8&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the ever-evolving world of programming languages, a new contender has emerged, poised to revolutionize the way developers build software. Mojo Lang, a powerful and versatile programming language, has gained significant attention and popularity among programmers worldwide. In this article, we will delve into the features, strengths, and potential applications of Mojo Lang, providing an in-depth understanding of its capabilities and why it has captured the imagination of the programming community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Segment Anything Model — SAM: A Game-Changer in Image Segmentation</title>
-      <link>http://localhost:1313/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*uVmHdCWdgwolXHy27B-uUA.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cupboard Segmented using Segment Anything Model by MetaAI — &lt;a href=&#34;https://segment-anything.com/demo&#34;&gt;https://segment-anything.com/demo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In recent years, the field of computer vision has witnessed remarkable advancements, thanks to the emergence of foundation models and their ability to generalize across various tasks. The SegmentAnythingModel (SAM) is a groundbreaking vision foundational model that has garnered significant attention in the computer vision community. Trained on an extensive dataset, SAM exhibits an unprecedented capability to segment objects in images and videos. In this blog post, we will explore the potential of SAM across different real-world applications, discuss its benefits, highlight its limitations, and explore future development prospects.&lt;/p&gt;</description>
     </item>
   </channel>

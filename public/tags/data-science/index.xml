@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Hi, I&#39;m Jyotsna</title>
-    <link>http://localhost:1313/tags/data-science/</link>
+    <link>http://localhost:1313/jyotsnad246.github.io/tags/data-science/</link>
     <description>Recent content in Data Science on Hi, I&#39;m Jyotsna</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jyotsnad246.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hypothesis Testing: Formulas and Widely Used Tests</title>
-      <link>http://localhost:1313/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:562/1*XizeX86IAm4mIxieipZ06w.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Hypothesis testing is a fundamental statistical technique used to make informed decisions and draw conclusions about populations based on sample data. It allows researchers to assess whether an observed effect is statistically significant or due to chance. In this article, we will explore the key concepts of hypothesis testing, delve into the formulas involved, and examine some commonly used tests.&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-hypothesis-testing&#34;&gt;Understanding Hypothesis Testing&lt;/h2&gt;&#xA;&lt;p&gt;Hypothesis testing involves two competing hypotheses: the null hypothesis (H0) and the alternative hypothesis (Ha). The null hypothesis represents the status quo or the absence of an effect, while the alternative hypothesis proposes a specific claim or research hypothesis.&lt;/p&gt;</description>
     </item>
   </channel>

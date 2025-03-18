@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hi, I&#39;m Jyotsna</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:1313/jyotsnad246.github.io/categories/</link>
     <description>Recent content in Categories on Hi, I&#39;m Jyotsna</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jyotsnad246.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms</title>
-      <link>http://localhost:1313/categories/algorithms/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/algorithms/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/algorithms/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Structures</title>
-      <link>http://localhost:1313/categories/data-structures/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/data-structures/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/data-structures/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/data-structures/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>http://localhost:1313/categories/data-science/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/data-science/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/data-science/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/categories/research/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/research/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/research/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/categories/deep-learning/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/deep-learning/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/deep-learning/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Model Evaluation</title>
-      <link>http://localhost:1313/categories/model-evaluation/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/model-evaluation/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/model-evaluation/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/model-evaluation/</guid>
       <description></description>
     </item>
     <item>
       <title>Backend</title>
-      <link>http://localhost:1313/categories/backend/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/backend/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/backend/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>REST API</title>
-      <link>http://localhost:1313/categories/rest-api/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/rest-api/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/rest-api/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/rest-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/development/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/development/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Mojo</title>
-      <link>http://localhost:1313/categories/mojo/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/categories/mojo/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/mojo/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/categories/mojo/</guid>
       <description></description>
     </item>
   </channel>

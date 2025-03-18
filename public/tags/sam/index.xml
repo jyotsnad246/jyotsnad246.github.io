@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAM on Hi, I&#39;m Jyotsna</title>
-    <link>http://localhost:1313/tags/sam/</link>
+    <link>http://localhost:1313/jyotsnad246.github.io/tags/sam/</link>
     <description>Recent content in SAM on Hi, I&#39;m Jyotsna</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jyotsnad246.github.io/tags/sam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segment Anything Model — SAM: A Game-Changer in Image Segmentation</title>
-      <link>http://localhost:1313/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
+      <link>http://localhost:1313/jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
+      <guid>http://localhost:1313/jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:700/1*uVmHdCWdgwolXHy27B-uUA.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cupboard Segmented using Segment Anything Model by MetaAI — &lt;a href=&#34;https://segment-anything.com/demo&#34;&gt;https://segment-anything.com/demo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In recent years, the field of computer vision has witnessed remarkable advancements, thanks to the emergence of foundation models and their ability to generalize across various tasks. The SegmentAnythingModel (SAM) is a groundbreaking vision foundational model that has garnered significant attention in the computer vision community. Trained on an extensive dataset, SAM exhibits an unprecedented capability to segment objects in images and videos. In this blog post, we will explore the potential of SAM across different real-world applications, discuss its benefits, highlight its limitations, and explore future development prospects.&lt;/p&gt;</description>
     </item>
   </channel>
