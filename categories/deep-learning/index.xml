@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Hi, I&#39;m Jyotsna</title>
-    <link>https://jyotsnad246.github.io/categories/deep-learning/</link>
+    <link>https://jyotsnad246.github.io/jyotsnad246.github.io/categories/deep-learning/</link>
     <description>Recent content in Deep Learning on Hi, I&#39;m Jyotsna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/jyotsnad246.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Model Evaluation: A Comprehensive Guide to Choosing and Interpreting Evaluation Metrics in Machine Learning</title>
-      <link>https://jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</link>
+      <link>https://jyotsnad246.github.io/jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</guid>
+      <guid>https://jyotsnad246.github.io/jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</guid>
       <description>Introduction In the field of machine learning, evaluating the performance of models is essential for understanding their efficacy and making informed decisions. Evaluation metrics provide quantitative measures to assess how well a machine learning model performs on specific tasks such as classification, regression, or clustering. In this article, we will explore the significance of evaluation metrics and discuss different types commonly used in machine learning tasks.
 Classification Evaluation Metrics In classification tasks, models are trained to predict predefined classes or labels for input data.</description>
     </item>
     
     <item>
       <title>Segment Anything Model — SAM: A Game-Changer in Image Segmentation</title>
-      <link>https://jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
+      <link>https://jyotsnad246.github.io/jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
+      <guid>https://jyotsnad246.github.io/jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
       <description>Cupboard Segmented using Segment Anything Model by MetaAI — https://segment-anything.com/demo
 Introduction In recent years, the field of computer vision has witnessed remarkable advancements, thanks to the emergence of foundation models and their ability to generalize across various tasks. The SegmentAnythingModel (SAM) is a groundbreaking vision foundational model that has garnered significant attention in the computer vision community. Trained on an extensive dataset, SAM exhibits an unprecedented capability to segment objects in images and videos.</description>
     </item>
