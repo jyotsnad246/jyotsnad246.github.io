@@ -74,7 +74,7 @@ disableHugoGeneratorInject = false
   images      = [""]
 
   # Home subtitle of the index page
-  homeSubtitle = "Scaling solutions to handle complex ideas, with a strong brew to keep up!"
+  homeSubtitle = "Engineering next-gen resilient solutions that scale with innovation and performance"
 
   # Enable theme toggle for dark/light mode
   enableThemeToggle = true
@@ -125,7 +125,7 @@ disableHugoGeneratorInject = false
 
   # Portrait configuration (Uncomment and set the correct path to your image)
   [params.portrait]
-  path     = "/images/jyotsnadp.png"   # Corrected path relative to static folder
+  path     = "/images/jyotsna.jpeg"   # Corrected path relative to static folder
   alt      = "Portrait of Jyotsna"    # Descriptive alt text
   maxWidth = "350px"                  # Adjusted max width for better display
 
