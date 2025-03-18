@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m Jyotsna</title>
+    <link>https://jyotsnad246.github.io/</link>
+    <description>Recent content on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Machine Learning using C&#43;&#43;</title>
+      <link>https://jyotsnad246.github.io/posts/2023/08/exploring-machine-learning-using-c-/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2023/08/exploring-machine-learning-using-c-/</guid>
+      <description>Exploring C++ Libraries for Machine Learning: An overview of popular C++ libraries for machine learning, such as TensorFlow, Caffe, or MXNet, highlighting their features and use cases.
+Machine learning has revolutionized the way we solve complex problems, and C++ has long been a reliable language for building robust and efficient applications. In this blog post, we will embark on an exciting journey to explore three popular C++ libraries for machine learning: TensorFlow, Caffe, and MXNet.</description>
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of Deep Learning - Natural Language Processing in Finance</title>
+      <link>https://jyotsnad246.github.io/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2023/05/unleashing-the-power-of-deep-learning-natural-language-processing-in-finance/</guid>
+      <description>Introduction In recent years, the intersection of deep learning and natural language processing (NLP) has revolutionized various industries, including finance. By leveraging the capabilities of deep learning models, financial institutions can extract valuable insights from vast amounts of unstructured textual data. This article explores the application of deep learning in NLP for finance, highlighting its potential to enhance decision-making processes, sentiment analysis, and automated financial reporting.
+Understanding Deep Learning Deep learning is a subset of machine learning that focuses on training artificial neural networks with multiple layers to learn hierarchical representations of data.</description>
+    </item>
+    
+    <item>
+      <title>The Dutch National Flag Algorithm: Efficient Sorting in Three Categories</title>
+      <link>https://jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</guid>
+      <description>The Dutch National Flag algorithm is a popular and efficient sorting technique for problems where elements can be divided into three distinct categories. Named after the Dutch national flag, where there are three horizontal stripes of different colors, this algorithm elegantly sorts an array of items into three groups with minimal swaps and comparisons.
+In this blog post, we will explore the Dutch National Flag algorithm in detail, including how it works, its applications, and its benefits.</description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Testing: Formulas and Widely Used Tests</title>
+      <link>https://jyotsnad246.github.io/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2024/08/hypothesis-testing-formulas-and-widely-used-tests/</guid>
+      <description>Introduction Hypothesis testing is a fundamental statistical technique used to make informed decisions and draw conclusions about populations based on sample data. It allows researchers to assess whether an observed effect is statistically significant or due to chance. In this article, we will explore the key concepts of hypothesis testing, delve into the formulas involved, and examine some commonly used tests.
+Understanding Hypothesis Testing Hypothesis testing involves two competing hypotheses: the null hypothesis (H0) and the alternative hypothesis (Ha).</description>
+    </item>
+    
+    <item>
+      <title>Mastering Model Evaluation: A Comprehensive Guide to Choosing and Interpreting Evaluation Metrics in Machine Learning</title>
+      <link>https://jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</guid>
+      <description>Introduction In the field of machine learning, evaluating the performance of models is essential for understanding their efficacy and making informed decisions. Evaluation metrics provide quantitative measures to assess how well a machine learning model performs on specific tasks such as classification, regression, or clustering. In this article, we will explore the significance of evaluation metrics and discuss different types commonly used in machine learning tasks.
+Classification Evaluation Metrics In classification tasks, models are trained to predict predefined classes or labels for input data.</description>
+    </item>
+    
+    <item>
+      <title>Demystifying REST APIs: A Comprehensive Guide to Representational State Transfer</title>
+      <link>https://jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</guid>
+      <description>In the ever-evolving landscape of web development, Representational State Transfer (REST) has emerged as a powerful architectural style for designing networked applications. REST APIs (Application Programming Interfaces) play a crucial role in facilitating structured communication between different software systems. This article aims to demystify the world of REST APIs, exploring their key concepts, advantages, components, and best practices.
+Understanding REST: At its core, REST is an architectural style that relies on a stateless, client-server communication model.</description>
+    </item>
+    
+    <item>
+      <title>Mojo 🔥 : Know Everything About the New Programming Language</title>
+      <link>https://jyotsnad246.github.io/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</guid>
+      <description>Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
+In the ever-evolving world of programming languages, a new contender has emerged, poised to revolutionize the way developers build software. Mojo Lang, a powerful and versatile programming language, has gained significant attention and popularity among programmers worldwide. In this article, we will delve into the features, strengths, and potential applications of Mojo Lang, providing an in-depth understanding of its capabilities and why it has captured the imagination of the programming community.</description>
+    </item>
+    
+    <item>
+      <title>Segment Anything Model — SAM: A Game-Changer in Image Segmentation</title>
+      <link>https://jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2023/06/segment-anything-model-sam-a-game-changer-in-image-segmentation/</guid>
+      <description>Cupboard Segmented using Segment Anything Model by MetaAI — https://segment-anything.com/demo
+Introduction In recent years, the field of computer vision has witnessed remarkable advancements, thanks to the emergence of foundation models and their ability to generalize across various tasks. The SegmentAnythingModel (SAM) is a groundbreaking vision foundational model that has garnered significant attention in the computer vision community. Trained on an extensive dataset, SAM exhibits an unprecedented capability to segment objects in images and videos.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jyotsnad246.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/about/</guid>
+      <description>About Me Hi, I&amp;rsquo;m Jyotsna, a Software Engineer with a passion for building scalable, data-driven solutions. With expertise in Java, Databases, Python, Machine Learning, and various other technologies, I specialize in developing real-world applications that combine the power of AI, Software Development, and product analytics.
+I thrive at the intersection of software development, data science, and product innovation—constantly seeking to build intelligent systems that solve complex problems and provide valuable insights.</description>
+    </item>
+    
+  </channel>
+</rss>

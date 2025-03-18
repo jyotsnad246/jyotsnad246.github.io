@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Evaluation on Hi, I&#39;m Jyotsna</title>
+    <link>https://jyotsnad246.github.io/tags/model-evaluation/</link>
+    <description>Recent content in Model Evaluation on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/tags/model-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Model Evaluation: A Comprehensive Guide to Choosing and Interpreting Evaluation Metrics in Machine Learning</title>
+      <link>https://jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2024/07/mastering-model-evaluation-a-comprehensive-guide-to-choosing-and-interpreting-evaluation-metrics-in-machine-learning/</guid>
+      <description>Introduction In the field of machine learning, evaluating the performance of models is essential for understanding their efficacy and making informed decisions. Evaluation metrics provide quantitative measures to assess how well a machine learning model performs on specific tasks such as classification, regression, or clustering. In this article, we will explore the significance of evaluation metrics and discuss different types commonly used in machine learning tasks.
+Classification Evaluation Metrics In classification tasks, models are trained to predict predefined classes or labels for input data.</description>
+    </item>
+    
+  </channel>
+</rss>

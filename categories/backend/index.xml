@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on Hi, I&#39;m Jyotsna</title>
+    <link>https://jyotsnad246.github.io/categories/backend/</link>
+    <description>Recent content in Backend on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/categories/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying REST APIs: A Comprehensive Guide to Representational State Transfer</title>
+      <link>https://jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</guid>
+      <description>In the ever-evolving landscape of web development, Representational State Transfer (REST) has emerged as a powerful architectural style for designing networked applications. REST APIs (Application Programming Interfaces) play a crucial role in facilitating structured communication between different software systems. This article aims to demystify the world of REST APIs, exploring their key concepts, advantages, components, and best practices.
+Understanding REST: At its core, REST is an architectural style that relies on a stateless, client-server communication model.</description>
+    </item>
+    
+  </channel>
+</rss>

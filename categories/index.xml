@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hi, I&#39;m Jyotsna</title>
+    <link>https://jyotsnad246.github.io/categories/</link>
+    <description>Recent content in Categories on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms</title>
+      <link>https://jyotsnad246.github.io/categories/algorithms/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>https://jyotsnad246.github.io/categories/data-structures/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/data-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://jyotsnad246.github.io/categories/data-science/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://jyotsnad246.github.io/categories/research/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://jyotsnad246.github.io/categories/deep-learning/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Evaluation</title>
+      <link>https://jyotsnad246.github.io/categories/model-evaluation/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/model-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>https://jyotsnad246.github.io/categories/backend/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST API</title>
+      <link>https://jyotsnad246.github.io/categories/rest-api/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://jyotsnad246.github.io/categories/development/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mojo</title>
+      <link>https://jyotsnad246.github.io/categories/mojo/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/categories/mojo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

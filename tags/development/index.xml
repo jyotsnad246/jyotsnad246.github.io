@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Hi, I&#39;m Jyotsna</title>
+    <link>https://jyotsnad246.github.io/tags/development/</link>
+    <description>Recent content in development on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying REST APIs: A Comprehensive Guide to Representational State Transfer</title>
+      <link>https://jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2024/02/demystifying-rest-apis-a-comprehensive-guide-to-representational-state-transfer/</guid>
+      <description>In the ever-evolving landscape of web development, Representational State Transfer (REST) has emerged as a powerful architectural style for designing networked applications. REST APIs (Application Programming Interfaces) play a crucial role in facilitating structured communication between different software systems. This article aims to demystify the world of REST APIs, exploring their key concepts, advantages, components, and best practices.
+Understanding REST: At its core, REST is an architectural style that relies on a stateless, client-server communication model.</description>
+    </item>
+    
+    <item>
+      <title>Mojo 🔥 : Know Everything About the New Programming Language</title>
+      <link>https://jyotsnad246.github.io/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2023/06/mojo-know-everything-about-the-new-programming-language/</guid>
+      <description>Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
+In the ever-evolving world of programming languages, a new contender has emerged, poised to revolutionize the way developers build software. Mojo Lang, a powerful and versatile programming language, has gained significant attention and popularity among programmers worldwide. In this article, we will delve into the features, strengths, and potential applications of Mojo Lang, providing an in-depth understanding of its capabilities and why it has captured the imagination of the programming community.</description>
+    </item>
+    
+  </channel>
+</rss>

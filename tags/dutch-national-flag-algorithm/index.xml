@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dutch National Flag Algorithm on Hi, I&#39;m Jyotsna</title>
+    <link>https://jyotsnad246.github.io/tags/dutch-national-flag-algorithm/</link>
+    <description>Recent content in Dutch National Flag Algorithm on Hi, I&#39;m Jyotsna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jyotsnad246.github.io/tags/dutch-national-flag-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dutch National Flag Algorithm: Efficient Sorting in Three Categories</title>
+      <link>https://jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://jyotsnad246.github.io/posts/2025/01/the-dutch-national-flag-algorithm-efficient-sorting-in-three-categories/</guid>
+      <description>The Dutch National Flag algorithm is a popular and efficient sorting technique for problems where elements can be divided into three distinct categories. Named after the Dutch national flag, where there are three horizontal stripes of different colors, this algorithm elegantly sorts an array of items into three groups with minimal swaps and comparisons.
+In this blog post, we will explore the Dutch National Flag algorithm in detail, including how it works, its applications, and its benefits.</description>
+    </item>
+    
+  </channel>
+</rss>
