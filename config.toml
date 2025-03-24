@@ -127,7 +127,7 @@ disableHugoGeneratorInject = false
   [params.portrait]
   path     = "/images/jyotsna.jpeg"   # Corrected path relative to static folder
   alt      = "Portrait of Jyotsna"    # Descriptive alt text
-  maxWidth = "350px"                  # Adjusted max width for better display
+  maxWidth = "250px"                  # Adjusted max width for better display
 
   # Commento integration (Uncomment to enable)
   # [params.commento]
